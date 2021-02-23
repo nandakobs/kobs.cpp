@@ -1,0 +1,76 @@
+>>> Exercício 01
+
+Escreva um programa para o CS que leia um conjunto de notas de alunos contidas em
+cartões, calcule e imprima quantos alunos foram aprovados. 
+Obs1:Para passar de ano, o aluno deve ter nota maior ou igual a 60.
+Obs2:O último cartão (flag) terá o valor -1.
+
+E01 = Insira o valor 0 em E07
+E02 = Pegue um cartão e copie seu valor para E06
+E03 = Se o valor de E06 for igual a -1 avance para E08
+E04 = Se o valor de E06 for maior ou igual a 60 Some 1 ao valor de E07
+E05 = Volte para E02
+E06 = 
+E07 = 
+E08 = Imprimir o valor de E07
+E09 = Pare
+
+Valores dos cartões (Notas)
+*35
+*87
+*92
+*-1
+
+Impressão: 2 alunos foram aprovados.
+
+
+>>> Exercício 02
+
+Em um campeonato, durante o mês de janeiro, foram anotados diariamente em cartões,
+quantos gols foram marcados. Crie um programa em CS capaz de ler estes cartões e
+imprimir a média de gols do mês de janeiro, lembrando que janeiro possui 31 dias.
+
+E1 = Escreva o valor 1 em E8 <!- não deveria ser 0 pra que o valor de dias esteja correto??-->
+E2 = Escreva o valor 0 em E7
+E3 = Se o valor de E8 for maior que 31, avance para E9
+E4 = Pegue um cartão e some seu conteúdo ao E7
+E5 = Some um ao valor de E8
+E6 = Volte para E3
+E7 = 
+E8 = 
+E9 = Divida o valor do escaninho E7 pelo valor do escaninho E8 e armazene seu resultado em E7
+E10 = Imprima o conteúdo de E7
+E11 = Pare
+
+Valores dos cartões (Notas)
+d1- 2
+d2- 1
+d3- 3
+d4- 2
+d5- 3
+d6- 1
+d7-0
+d8-0
+d9-1
+d10-2
+d11-0
+d12-3
+d13-0
+d14-1
+d15-2
+d16-0
+d17-2
+d18-0
+d19-1
+d20-3
+d21-0
+d22-3
+d23-1
+d24-2
+d25-3
+d26-4
+d27-0
+d28-2
+d29-3
+d30-0
+d31-1
