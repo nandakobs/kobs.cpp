@@ -1,19 +1,19 @@
 #include <iostream>
 using namespace std;
 
-//variaveis globais podem ser utilizadas por qualquer parte do programa/código
+//variaveis globais podem ser utilizadas por qualquer parte do programa/cÃ³digo
 int n1,n2;
-/* É possivel criar dentro de funções diferentes variaveis com o mesmo nome
-pq elas tem escopo de ulização diferente*/
+/* Ã‰ possivel criar dentro de funÃ§Ãµes diferentes variaveis com o mesmo nome
+pq elas tem escopo de ulizaÃ§Ã£o diferente*/
 
-int main(){ //int main é um bloco de função, várias funções podem ser criadas
-	//variaveis locais só podem ser utilizadas dentro da função em q foram declaradas
+int main(){ //int main Ã© um bloco de funÃ§Ã£o, vÃ¡rias funÃ§Ãµes podem ser criadas
+	//variaveis locais sÃ³ podem ser utilizadas dentro da funÃ§Ã£o em q foram declaradas
 	int n3, n4;	
 	
-	/*Operadores Matemáticos: adição(+), subtração(-), divisão(/), multiplicação(*)
-	e Operador Mode(%) = dá o resto de uma divisão. 
-	Ordem dos elementos: (1° td o q tiver aq), dps divisão e multiplicação (entre eles o q vier primeiro),
-	dps adição e subtração*/
+	/*Operadores MatemÃ¡ticos: adiÃ§Ã£o(+), subtraÃ§Ã£o(-), divisÃ£o(/), multiplicaÃ§Ã£o(*)
+	e Operador Mod(%) = dÃ¡ o resto de uma divisÃ£o. 
+	Ordem dos elementos: (1Â° td o q tiver aq), dps divisÃ£o e multiplicaÃ§Ã£o (entre eles o q vier primeiro),
+	dps adiÃ§Ã£o e subtraÃ§Ã£o*/
 	int res1,res2;
 	
 	n1=11;
@@ -24,8 +24,8 @@ int main(){ //int main é um bloco de função, várias funções podem ser criadas
 	//res=(n1+n2+n3+n4)-10;
 	//res=n1+n2*n4;
 	res1=n1/n2;
-	res2=n1%n2; //>>resto<< da divisão entre os elementos
-	cout << "Divisão: " << res1 << "\n\n";
+	res2=n1%n2; //>>resto<< da divisÃ£o entre os elementos
+	cout << "DivisÃ£o: " << res1 << "\n\n";
 	cout << "  Resto: " << res2 << "\n\n";
 		
 	return 0;
