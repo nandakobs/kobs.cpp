@@ -21,7 +21,7 @@ int main(){
         cout << "Vou ao cinema \n\n";
     }
 
-	//operadores de comparação: >, <, >=, <=, ==, !=
+	//operadores de comparaÃ§Ã£o: >, <, >=, <=, ==, !=
 	//(respectivamente: maior, menor, maior ou igual, menor ou igual, igual e diferente)
     // 10 < 5 = false
     // 50 > 25 = true
