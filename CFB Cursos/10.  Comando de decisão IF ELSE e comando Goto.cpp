@@ -19,7 +19,7 @@ int main(){
 	res=n1+n2;
 
 	/*  >=60        Aprovado
-        >=40 e <60  Recuperação
+        >=40 e <60  RecuperaÃ§Ã£o
         <40         Reprovado
     */
 
