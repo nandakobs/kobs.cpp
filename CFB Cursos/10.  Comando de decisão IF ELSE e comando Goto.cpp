@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cstdlib> // ou stdlib.h para system("cis") funfar
+#include <cstdlib> // ou stdlib.h para system("cls") funfar
 using namespace std;
 
 int main(){
