@@ -1,2 +1,3 @@
 # kobs.cpp
-All the things I learned and did using C ++
+
+Materiais de estudo: [CFB Cursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40)
